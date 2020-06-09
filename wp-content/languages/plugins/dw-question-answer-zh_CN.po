@@ -1,0 +1,670 @@
+# Translation of Plugins - DW Question &amp; Answer - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - DW Question &amp; Answer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-15 16:05:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - DW Question &amp; Answer - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://www.designwall.com"
+msgstr "http://www.designwall.com"
+
+#. Author of the plugin
+msgid "DesignWall"
+msgstr "DesignWall"
+
+#. Description of the plugin
+msgid "A WordPress plugin was make by DesignWall.com to build an Question Answer system for support, asking and comunitcate with your customer"
+msgstr "一个由designwall.com开发的问答插件，帮助您与您的客户建立良性沟通"
+
+#. Plugin Name of the plugin
+msgid "DW Question Answer"
+msgstr "DW Question Answer"
+
+#: inc/widgets/Related_Question.php:12
+msgid "DWQA Related Questions"
+msgstr "DWQA相关问题"
+
+#: inc/widgets/Related_Question.php:11
+msgid "Show a list of questions that related to a question. Just show in single question page"
+msgstr "显示相关问题列表。只显示在问题内容页"
+
+#: inc/widgets/Popular_Question.php:15
+msgid "DWQA Popular Questions"
+msgstr "DWQA热门问题"
+
+#: inc/widgets/Closed_Question.php:18
+msgid "Closed Questions"
+msgstr "已结束的问题"
+
+#: inc/widgets/Closed_Question.php:12
+msgid "DWQA Closed Questions"
+msgstr "DWQA已结束的问题"
+
+#: inc/widgets/Related_Question.php:51 inc/widgets/Closed_Question.php:75
+#: inc/widgets/Popular_Question.php:69 inc/widgets/Latest_Question.php:74
+msgid "Number of posts"
+msgstr "文章数量"
+
+#: inc/widgets/Related_Question.php:48 inc/widgets/Closed_Question.php:72
+#: inc/widgets/Popular_Question.php:66 inc/widgets/Latest_Question.php:71
+msgid "Widget title"
+msgstr "小工具标题"
+
+#: inc/widgets/Latest_Question.php:17
+msgid "Latest Questions"
+msgstr "最新问题"
+
+#: inc/widgets/Latest_Question.php:11
+msgid "DWQA Latest Questions"
+msgstr "DWQA最新问题"
+
+#: templates/content-question.php:18
+msgid "asked"
+msgstr "提问于"
+
+#: templates/archive-question.php:28 templates/bp-archive-question.php:32
+msgid "Ask Question"
+msgstr "提出问题"
+
+#: templates/question-submit-form.php:38 templates/content-edit.php:36
+msgid "Select question category"
+msgstr "选择问题类别"
+
+#: inc/Posts/Question.php:206
+msgid "Question Category"
+msgstr "问题分类"
+
+#: templates/archive-question-filter.php:16
+msgid "All"
+msgstr "全部"
+
+#: inc/Template.php:19 inc/Template.php:24
+#: templates/question-submit-form.php:32 templates/content-edit.php:29
+msgid "Category"
+msgstr "分类"
+
+#: inc/User.php:218
+msgid "Staff"
+msgstr "管理员"
+
+#: templates/content-single-answer.php:13
+#: templates/content-single-question.php:15
+msgid "Vote Down"
+msgstr "踩"
+
+#: templates/content-single-answer.php:12
+#: templates/content-single-question.php:14
+msgid "Vote Up"
+msgstr "赞"
+
+#: inc/Template.php:664
+msgid "Login to ask a question"
+msgstr "登陆提交您的问题"
+
+#: inc/Template.php:662
+msgid "Ask a question"
+msgstr "问一个问题"
+
+#: inc/Template.php:648
+msgid "Sticky Question"
+msgstr "置顶问题"
+
+#: inc/Template.php:473
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: inc/Template.php:472
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: inc/Template.php:471
+msgid "Leave a Reply to %s"
+msgstr "在%s上留下回复"
+
+#: inc/Template.php:470
+msgid "Leave a Reply"
+msgstr "留下回复"
+
+#: inc/Template.php:467
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "你可以使用这些<abbr title=\"HyperText Markup Language\">HTML</abbr>标签和属性: %s"
+
+#: inc/Template.php:464
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%s\">登陆</a> 来发表评论."
+
+#: inc/Template.php:452
+msgid "Required fields are marked %s"
+msgstr "必填项标记为%s"
+
+#: inc/Template.php:448
+msgid "Email"
+msgstr "电子邮件"
+
+#: templates/question-submit-form.php:69
+msgid "You do not have permission to submit a question"
+msgstr "您没有提交问题的权限"
+
+#: inc/Status.php:340
+msgid "Invalid post status"
+msgstr "无效文章状态"
+
+#: inc/Status.php:335
+msgid "Post does not exist"
+msgstr "文章不存在"
+
+#: inc/Status.php:322
+msgid "Missing post ID"
+msgstr "丢失了文章编号"
+
+#: inc/Status.php:298
+msgid "Answered"
+msgstr "回答"
+
+#: inc/Posts/Base.php:360 inc/Status.php:294
+msgid "New"
+msgstr "新建"
+
+#: inc/Shortcode.php:180
+msgid "Link to"
+msgstr "链接到"
+
+#: inc/Shortcode.php:180
+msgid "Answer at"
+msgstr "回答在"
+
+#: inc/Shortcode.php:154
+msgid "Latest Answers"
+msgstr "最近问题"
+
+#: inc/widgets/Popular_Question.php:21 inc/Shortcode.php:117
+msgid "Popular Questions"
+msgstr "热门问题"
+
+#: inc/Settings.php:1524
+msgid "This address will be used as the sender of the outgoing emails."
+msgstr "该地址将被用作外发电子邮件的发送者。"
+
+#: inc/Settings.php:1519
+msgid "Bcc"
+msgstr "Bcc"
+
+#: inc/Settings.php:1514
+msgid "Cc"
+msgstr "Cc"
+
+#: inc/Settings.php:1452
+msgid "Save all changes"
+msgstr "保存所有修改"
+
+#: inc/Settings.php:1306
+msgid "Email Logo"
+msgstr "邮件Logo"
+
+#: inc/Settings.php:1287
+msgid "General"
+msgstr "常规"
+
+#: inc/Settings.php:1283
+msgid "DWQA Settings"
+msgstr "DWQA设置"
+
+#: inc/Settings.php:1238 inc/Settings.php:1245
+msgid "Group Permission"
+msgstr "用户组权限"
+
+#: inc/Settings.php:1160
+msgid "From Email"
+msgstr "来自邮箱"
+
+#: inc/Settings.php:1068
+msgid "Permalink Settings"
+msgstr "固定链接设置"
+
+#: inc/Settings.php:848 inc/Settings.php:1048
+msgid "Ask Question Page"
+msgstr "提出问题页"
+
+#: inc/Settings.php:840
+msgid "Question List Page"
+msgstr "问题列表页"
+
+#: inc/Settings.php:781
+msgid "Settings"
+msgstr "设置"
+
+#: inc/Settings.php:781
+msgid "Plugin Settings"
+msgstr "插件设置"
+
+#: inc/Settings.php:648
+msgid "By default, your single.php template file will be used if you do not choose any template"
+msgstr "默认情况下，如果不选择任何模板，您会使用single.php模板文件"
+
+#: inc/Settings.php:642
+msgid "Select template for Single Quesiton page"
+msgstr "选择单问题页面模板"
+
+#: inc/Settings.php:429 inc/Settings.php:465 inc/Settings.php:500
+msgid "Reset Default"
+msgstr "重置为默认"
+
+#: inc/Settings.php:401
+msgid "Post"
+msgstr "发表"
+
+#: inc/Settings.php:400
+msgid "Read"
+msgstr "阅读"
+
+#: inc/Settings.php:136 inc/Settings.php:171 inc/Settings.php:207
+#: inc/Settings.php:243 inc/Settings.php:278 inc/Settings.php:313
+#: inc/Settings.php:348
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: inc/Settings.php:131 inc/Settings.php:166 inc/Settings.php:202
+#: inc/Settings.php:238 inc/Settings.php:273 inc/Settings.php:308
+#: inc/Settings.php:343
+msgid "Email subject"
+msgstr "邮件主题"
+
+#: inc/Settings.php:87
+msgid "Upload"
+msgstr "上传"
+
+#: inc/Settings.php:70
+msgid "This page will be redirected when users without authority click on a private question. You can customize the message of this page in.If not, a default 404 page will be used."
+msgstr "当用户没有权限查看私人问题时，该页面将被重定向。您可以自定义此页的信息，如果没有，将使用默认的404页。"
+
+#: inc/Settings.php:65
+msgid "Select 404 DWQA Page"
+msgstr "选择404页面"
+
+#: inc/Settings.php:47
+msgid "Select Submit Question Page"
+msgstr "选择一个提问页"
+
+#: inc/Settings.php:36
+msgid "A Question will be marked as overdue if it passes this period of time, starting from the time the question was submitted"
+msgstr "从一个问题提交之日开始，如果过了一段时间，它将会标记为过期"
+
+#: inc/Settings.php:36
+msgid "days"
+msgstr "天"
+
+#: inc/Settings.php:31
+msgid "A period of time in which new questions are highlighted and marked as New"
+msgstr "一个时期以来中的新问题被突出显示，并标记为最新"
+
+#: inc/Settings.php:31
+msgid "hours"
+msgstr "小时"
+
+#: inc/Settings.php:20
+msgid "Select Archive Question Page"
+msgstr "选择问题页面存档"
+
+#: inc/Settings.php:8
+msgid "Login required. No anonymous post allowed"
+msgstr "不允许匿名用户，必须登录"
+
+#: inc/PointerHelper.php:71
+msgid "Change comment settings, and create the Submit question page."
+msgstr "改变评论设置，并且创建问题页。"
+
+#: inc/PointerHelper.php:70
+msgid "Config your support channel"
+msgstr "配置你的支持通道"
+
+#: inc/PointerHelper.php:61
+msgid "Documents, Support From DesignWall (help)"
+msgstr "文档，来自DesignWall的支持（帮助）"
+
+#: inc/PointerHelper.php:60
+msgid "How to use DW Question Answer"
+msgstr "如何使用DW问答"
+
+#: inc/Notifications.php:331 inc/Notifications.php:377
+msgid "[{site_name}] You have a new comment for answer"
+msgstr "[{site_name}]在答案中你有一个新的评论"
+
+#: inc/Notifications.php:326 inc/Notifications.php:372
+msgid "[{site_name}] You have a new comment for question {question_title}"
+msgstr "[{site_name}]你有一个新的评论在问题{question_title}"
+
+#: inc/Notifications.php:56
+msgid "A new question was posted on {site_name}"
+msgstr "一个新的问题发表在{site_name}"
+
+#: inc/Metaboxes.php:29
+msgid "Pin question to top of archive page."
+msgstr "置顶到存档页面。"
+
+#: inc/Metaboxes.php:25
+msgid "Sticky"
+msgstr "置顶"
+
+#: inc/Status.php:291 inc/Metaboxes.php:19
+#: templates/content-single-question.php:34
+#: templates/archive-question-filter.php:20
+msgid "Closed"
+msgstr "已关闭"
+
+#: inc/Status.php:288 inc/Metaboxes.php:18
+msgid "Re-Open"
+msgstr "重新开放"
+
+#: inc/Status.php:282 inc/Metaboxes.php:17
+#: templates/content-single-question.php:35
+#: templates/archive-question-filter.php:19
+msgid "Resolved"
+msgstr "已解决"
+
+#: inc/Status.php:285 inc/Metaboxes.php:16
+msgid "Pending"
+msgstr "有待解决"
+
+#: inc/Status.php:302 inc/Metaboxes.php:15
+#: templates/content-single-question.php:33
+#: templates/archive-question-filter.php:18
+msgid "Open"
+msgstr "开放"
+
+#: inc/Metaboxes.php:13 templates/question-submit-form.php:22
+#: templates/content-single-question.php:32
+msgid "Status"
+msgstr "状态"
+
+#: inc/Metaboxes.php:65
+msgid "Question Meta Data"
+msgstr "问题元数据"
+
+#: inc/Settings.php:431 inc/Posts/Answer.php:207 inc/Posts/Answer.php:209
+#: inc/Metaboxes.php:45 templates/archive-question-filter.php:34
+msgid "Answers"
+msgstr "回答"
+
+#: templates/content-none.php:10
+msgid "You do not have permission to view questions"
+msgstr "你没有权限查看问题"
+
+#: inc/Helptab.php:177
+msgid "DesignWall Wordpress Plugins"
+msgstr "DesignWall Wordpress插件"
+
+#: inc/Helptab.php:176
+msgid "DesignWall Wordpress Themes"
+msgstr "DesignWall Wordpress主题"
+
+#: inc/Helptab.php:175
+msgid "Community"
+msgstr "社区支持"
+
+#: inc/Helptab.php:174
+msgid "DW Question Answer Guide"
+msgstr "DW问答中心指南"
+
+#: inc/Helptab.php:173
+msgid "For more information:"
+msgstr "欲了解更多信息："
+
+#: inc/Helptab.php:64
+msgid "Style integration"
+msgstr "风格整合"
+
+#: inc/Helptab.php:60
+msgid "Shortcode"
+msgstr "短代码"
+
+#: inc/Helptab.php:56
+msgid "Setup Ask Question Page"
+msgstr "设置提问页"
+
+#: inc/Helptab.php:52
+msgid "Setup Question List Page"
+msgstr "设置问题列表页"
+
+#: inc/Helptab.php:49
+msgid "DW Question Answer is a WordPress Plugin which helps you build a Question & Answer system on your WordPress sites. The plugin is easy to install and set up. Let start building up your community with this WordPress question & answer system."
+msgstr "DW问答是一个帮助你在wordpress上建立一个问答系统的插件。这个插件容易安装和设计。让我们开始使用这个wordpress问答系统建立你的社区吧。"
+
+#: inc/Helptab.php:48
+msgid "DW Question Answer Plugin"
+msgstr "DW Question Answer插件"
+
+#: inc/Helptab.php:47
+msgid "Overview"
+msgstr "概述"
+
+#: inc/Walker/Category.php:35 inc/Walker/Tag.php:35
+msgid "Feed for all posts filed under %s"
+msgstr "订阅 %s 下的所有文章"
+
+#: inc/Walker/Category.php:20 inc/Walker/Tag.php:20
+msgid "View all posts filed under %s"
+msgstr "查看 %s 下的所有文章"
+
+#: inc/Answer_List_Table.php:106 inc/Helptab.php:153
+msgid "Read more"
+msgstr "查看全文"
+
+#: inc/Answer_List_Table.php:95
+msgid "Answered on "
+msgstr "回答"
+
+#: inc/Answer_List_Table.php:76
+msgid "Detail"
+msgstr "细节"
+
+#: inc/Posts/Question.php:505
+msgid "You do not have permission to delete this question"
+msgstr "你没有权限删除这个问题"
+
+#: inc/Posts/Question.php:500
+msgid "Delete Action was failed"
+msgstr "删除动作失败"
+
+#: inc/Posts/Question.php:479
+msgid "Question is not valid"
+msgstr "问题是无效"
+
+#: inc/Posts/Question.php:445
+msgid "Sticky Questions"
+msgstr "置顶问答"
+
+#: inc/Posts/Question.php:410 inc/User.php:254
+msgid "Invalid Post"
+msgstr "无效的内容"
+
+#: inc/Template.php:1136
+msgid "Choose as the best answer"
+msgstr "选为最佳答案"
+
+#: inc/Handle.php:55 inc/Handle.php:224 inc/Handle.php:327
+msgid "Missing name information"
+msgstr "缺少名称信息"
+
+#: inc/Handle.php:51 inc/Handle.php:220 inc/Handle.php:322
+msgid "Missing email information"
+msgstr "缺少电子邮箱信息"
+
+#: inc/Handle.php:196
+msgid "You can't post comment"
+msgstr "你不能发表评论"
+
+#: inc/Status.php:345 inc/Handle.php:488
+msgid "You do not have permission to edit question"
+msgstr "您没有编辑问题的权限"
+
+#: inc/Posts/Question.php:473 inc/extend/buddypress/notifications.php:102
+#: inc/Handle.php:145 inc/Handle.php:542
+msgid "Hello, Are you cheating huh?"
+msgstr "你好，你是作弊吗？"
+
+#: templates/question-submit-form.php:25 templates/answer-submit-form.php:34
+msgid "Public"
+msgstr "发布"
+
+#: templates/content-single-answer.php:26
+msgid "Private"
+msgstr "私人的"
+
+#: inc/Ajax.php:92
+msgid "Missing id of answer"
+msgstr "缺少答案编号"
+
+#: inc/Ajax.php:37
+msgid "Comment ID must be showed."
+msgstr "必须显示评论ID"
+
+#: inc/Handle.php:286
+msgid "Comment content must not be empty."
+msgstr "评论内容必须不为空"
+
+#: inc/Handle.php:271
+msgid "Comment is missing"
+msgstr "评论缺失"
+
+#: inc/Ajax.php:216
+msgid "You do not have permission to edit question status"
+msgstr "您没有权限编辑问题状态"
+
+#: inc/Handle.php:412
+msgid "This username is already registered. Please use another one."
+msgstr "这个用户名字已经被注册，请使用另一个。"
+
+#: inc/Handle.php:409
+msgid "This email is already registered, please choose another one."
+msgstr "这个邮箱已经被注册，请选择另一个"
+
+#: inc/Handle.php:406
+msgid "User Registration was disabled."
+msgstr "未开放注册用户"
+
+#: inc/Ajax.php:29 inc/Ajax.php:47 inc/Ajax.php:89 inc/Ajax.php:119
+#: inc/Ajax.php:141 inc/Ajax.php:160 inc/Ajax.php:225 inc/Status.php:317
+#: inc/Handle.php:278 inc/Handle.php:477 inc/Permission.php:328
+#: inc/Akismet.php:522
+msgid "Are you cheating huh?"
+msgstr "您作弊，是吧？"
+
+#: inc/Handle.php:59 inc/Handle.php:473
+msgid "Captcha is not correct"
+msgstr "验证码不正确"
+
+#: inc/Handle.php:47 inc/Handle.php:454
+msgid "You do not have permission to submit question."
+msgstr "你没有权限来提交问题"
+
+#: inc/Handle.php:78
+msgid "Answer for "
+msgstr "回答"
+
+#: inc/Handle.php:33
+msgid "Delete draft"
+msgstr "删除草稿"
+
+#: inc/Posts/Base.php:34
+msgid "Are you cheating, huh?"
+msgstr "您作弊，是吧？"
+
+#: inc/Posts/Base.php:281
+msgid "Posts by %s"
+msgstr "发表人：%s"
+
+#: inc/Answer_List_Table.php:86 inc/Notifications.php:130
+#: inc/Notifications.php:150 inc/Settings.php:419 inc/Settings.php:455
+#: inc/Settings.php:490 inc/Posts/Base.php:269 inc/Posts/Comment.php:102
+#: inc/User.php:137 inc/Akismet.php:204
+msgid "Anonymous"
+msgstr "匿名用户"
+
+#: inc/widgets/Closed_Question.php:49 inc/widgets/Popular_Question.php:43
+#: inc/widgets/Latest_Question.php:42 inc/Posts/Question.php:56
+#: inc/Shortcode.php:140
+msgid "asked by"
+msgstr "提问人"
+
+#: inc/Posts/Question.php:289
+msgid "views"
+msgstr "查看"
+
+#: inc/Posts/Question.php:288
+msgid "voted"
+msgstr "投票"
+
+#: inc/Posts/Question.php:287 templates/content-question.php:22
+msgid "answered"
+msgstr "回答"
+
+#: inc/Posts/Answer.php:306
+msgid "on"
+msgstr "在"
+
+#: inc/Posts/Answer.php:305
+msgid "Submitted"
+msgstr "提交"
+
+#: inc/Posts/Base.php:361 inc/Posts/Answer.php:301 inc/Akismet.php:162
+msgid "View"
+msgstr "浏览"
+
+#: inc/Template.php:171 inc/Template.php:188 inc/Settings.php:403
+#: inc/Posts/Answer.php:300 templates/content-comment.php:22
+msgid "Delete"
+msgstr "删除"
+
+#: inc/Posts/Question.php:276
+msgid "Info"
+msgstr "信息"
+
+#: inc/Posts/Answer.php:255
+msgid "In Response To"
+msgstr "回复给"
+
+#: inc/Answer_List_Table.php:75 inc/Template.php:47 inc/Posts/Answer.php:253
+#: inc/Akismet.php:91
+msgid "Author"
+msgstr "作者"
+
+#: dw-question-answer.php:187
+msgid "DWQA Ask Question"
+msgstr "提出问题"
+
+#: dw-question-answer.php:170
+msgid "DWQA Questions"
+msgstr "问答中心"
+
+#: inc/Template.php:56 inc/Template.php:166 inc/Template.php:183
+#: inc/Settings.php:402 inc/Posts/Base.php:359 inc/Posts/Answer.php:299
+#: templates/content-comment.php:19
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/Handle.php:205
+msgid "Please enter your comment content"
+msgstr "请输入你的评论内容"
+
+#: inc/Posts/Question.php:240
+msgid "Question Tags"
+msgstr "问题标签"
+
+#: inc/Posts/Answer.php:208 inc/Posts/Answer.php:252
+msgid "Answer"
+msgstr "回答"
+
+#: inc/Posts/Base.php:358
+msgid "Add New"
+msgstr "新建"
+
+#: inc/Posts/Question.php:101
+msgid "Question"
+msgstr "问题"
